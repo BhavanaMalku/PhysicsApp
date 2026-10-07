@@ -1,2 +1,2 @@
 # PhysicsApp
-Physics Application Mini
+Mini Physics Application 
